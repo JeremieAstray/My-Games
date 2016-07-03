@@ -1,9 +1,9 @@
-[65278.234] *** SKIPPING Game Database Validation. ****
-[65278.234] You can enable it by setting 'ValidateGameDatabase = 1' in config.ini
-[65278.968] **** Validating Prefetch Process *****
-[65278.968] **** Validation Success *****
-[65278.968] SetGlobalActionInfo
-[65278.968] 
+[79847.343] *** SKIPPING Game Database Validation. ****
+[79847.343] You can enable it by setting 'ValidateGameDatabase = 1' in config.ini
+[79847.984] **** Validating Prefetch Process *****
+[79847.984] **** Validation Success *****
+[79847.984] SetGlobalActionInfo
+[79847.984] 
 -- SQLite Memory Statistics --
 Memory Usage:
 		[Cur]		[Max]
@@ -25,12 +25,12 @@ Scratch:	6376
 Prepared Statements:
 Current:		6
 ------------------------------
-[65279.000] *** SKIPPING Game Database Validation. ****
-[65279.000] You can enable it by setting 'ValidateGameDatabase = 1' in config.ini
-[65279.640] **** Validating Prefetch Process *****
-[65279.640] **** Validation Success *****
-[65279.640] SetGlobalActionInfo
-[65279.640] 
+[79848.015] *** SKIPPING Game Database Validation. ****
+[79848.015] You can enable it by setting 'ValidateGameDatabase = 1' in config.ini
+[79848.640] **** Validating Prefetch Process *****
+[79848.640] **** Validation Success *****
+[79848.640] SetGlobalActionInfo
+[79848.640] 
 -- SQLite Memory Statistics --
 Memory Usage:
 		[Cur]		[Max]

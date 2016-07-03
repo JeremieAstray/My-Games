@@ -1,15 +1,15 @@
-[1125754.937] columns StrategicViewType, TileType are not unique
-[1125754.937] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
-[1125771.312] no such table: ContentPackage.LocalizedText
-[1125771.312] no such table: ContentPackage.LocalizedText
-[1125771.312] no such table: ContentPackage.LocalizedText
-[1125773.125] no such table: ContentPackage.LocalizedText
-[1125775.125] columns StrategicViewType, TileType are not unique
-[1125775.125] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
-[1125776.125] no such table: ContentPackage.LocalizedText
-[1125776.125] no such table: ContentPackage.LocalizedText
-[1125776.125] no such table: ContentPackage.LocalizedText
-[1125789.968] 
+[65257.265] columns StrategicViewType, TileType are not unique
+[65257.265] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[65265.859] no such table: ContentPackage.LocalizedText
+[65265.859] no such table: ContentPackage.LocalizedText
+[65265.859] no such table: ContentPackage.LocalizedText
+[65267.156] no such table: ContentPackage.LocalizedText
+[65269.031] columns StrategicViewType, TileType are not unique
+[65269.031] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[65269.984] no such table: ContentPackage.LocalizedText
+[65269.984] no such table: ContentPackage.LocalizedText
+[65269.984] no such table: ContentPackage.LocalizedText
+[65278.968] 
 -- SQLite Memory Statistics --
 Memory Usage:
 		[Cur]		[Max]
@@ -31,7 +31,7 @@ Scratch:	6376
 Prepared Statements:
 Current:		6
 ------------------------------
-[1125790.687] 
+[65279.640] 
 -- SQLite Memory Statistics --
 Memory Usage:
 		[Cur]		[Max]

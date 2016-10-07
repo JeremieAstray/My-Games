@@ -1,6 +1,6 @@
 timeBeginPeriod( 1 )
-OpenGL version 4.5.0 NVIDIA 354.07
-GLSL version 4.50 NVIDIA
+OpenGL version 3.1.0 - Build 9.17.10.4229
+GLSL version 1.40 - Intel Build 9.17.10.4229
 Framebuffer ID: 1
 Renderbuffer ID: 1 size 1024x1024
 New gamepad attached:
@@ -18,8 +18,9 @@ Initialize HQ4X Shader
 Initialize Shockwave Shader
 Initialize OldTV Shader
 Initialize Water Surface Shader
-load archives: 7996 milliseconds
-preload anm2: 127 milliseconds
+load archives: 6347 milliseconds
+preload anm2: 110 milliseconds
+Display Hz: 32, Target: 60.. disabling vsync for this session.
 Viewport: 960x540
 Framebuffer Width: 960 
  Render Width: 960 
@@ -27,7 +28,15 @@ Framebuffer Width: 960
  Multiplier: 2.250010 
  DP per point: 1.000000 
  Point Scale: 2.000000 
-HQX4 size: 960x540
+Viewport: 1140x712
+Renderbuffer ID: 1 size 2048x1024
+Framebuffer Width: 1141 
+ Render Width: 1140 
+ Window Width: 1141 
+ Multiplier: 2.852510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 1140x712
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
 SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
@@ -36,22 +45,22 @@ SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
 SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
 playing cutscene 1 (Intro).
-Framebuffer Width: 960 
- Render Width: 960 
- Window Width: 960 
- Multiplier: 0.444444 
+Framebuffer Width: 1141 
+ Render Width: 1141 
+ Window Width: 1141 
+ Multiplier: 0.337079 
  DP per point: 1.000000 
- Point Scale: 2.250000 
-HQX4 size: 960x540
-Cutscene: correct anm2 timing: f296 -> f300
-Viewport: 960x540
-Framebuffer Width: 960 
- Render Width: 960 
- Window Width: 960 
- Multiplier: 2.250010 
+ Point Scale: 2.966667 
+HQX4 size: 1141x712
+Cutscene: correct anm2 timing: f23 -> f47
+Viewport: 1140x712
+Framebuffer Width: 1141 
+ Render Width: 1140 
+ Window Width: 1141 
+ Multiplier: 2.852510 
  DP per point: 1.000000 
  Point Scale: 2.000000 
-HQX4 size: 960x540
+HQX4 size: 1140x712
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
 SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
@@ -62,528 +71,4 @@ SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
 SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
 Queued Path music/afterbirth/regenesis (loop) v3.ogg
-RNG Start Seed: 8NFZ GX2D (4242812082)
-Initialized player with Variant 0 and Subtype 0
-Level::Init m_Stage 1, m_StageType 0 Seed 1624751119
-[RoomConfig] load stage 1: Basement
-allocate 837 rooms.
-[RoomConfig] load stage 0: Special Rooms
-allocate 784 rooms.
-generate...
-9 rooms in 5 loops
-placing rooms...
-[RoomConfig] load stage 13: ???
-allocate 6 rooms.
-Map Generated in 1 Loops
-Room 1.2(Start Room)
-SpawnRNG seed: 2957287978
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-music stopped playing
-Room 1.83()
-SpawnRNG seed: 2785315437
-Spawn Entity with Type(18), Variant(0), Pos(80.00,160.00)
-Spawn Entity with Type(14), Variant(0), Pos(280.00,280.00)
-Spawn Entity with Type(18), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(14), Variant(0), Pos(360.00,280.00)
-Spawn Entity with Type(18), Variant(0), Pos(560.00,400.00)
-Queued Path music/diptera layer.ogg
-Queued Path music/diptera sonata(basement).ogg
-Room 1.12()
-SpawnRNG seed: 409756021
-Spawn Entity with Type(12), Variant(0), Pos(120.00,160.00)
-Spawn Entity with Type(12), Variant(0), Pos(520.00,400.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 4.12( (copy))
-SpawnRNG seed: 2800793246
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-item taken without exchange
-music stopped playing
-item queue flush
-Adding collectible 214 (Anemic)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.12()
-SpawnRNG seed: 409756021
-Room 1.276(New Room)
-SpawnRNG seed: 1267471698
-Spawn Entity with Type(5), Variant(20), Pos(120.00,160.00)
-Spawn Entity with Type(5), Variant(10), Pos(320.00,160.00)
-Spawn Entity with Type(5), Variant(40), Pos(520.00,160.00)
-Spawn Entity with Type(5), Variant(40), Pos(120.00,400.00)
-Spawn Entity with Type(5), Variant(10), Pos(320.00,400.00)
-Spawn Entity with Type(5), Variant(20), Pos(520.00,400.00)
-Room 1.646(New Room (copy))
-SpawnRNG seed: 991394941
-Spawn Entity with Type(284), Variant(0), Pos(120.00,240.00)
-Spawn Entity with Type(10), Variant(0), Pos(80.00,280.00)
-Spawn Entity with Type(284), Variant(0), Pos(120.00,320.00)
-Queued Path music/diptera layer.ogg
-Queued Path music/diptera sonata(basement).ogg
-Room 1.276(New Room)
-SpawnRNG seed: 1267471698
-Room 1.12()
-SpawnRNG seed: 409756021
-Room 1.276(New Room)
-SpawnRNG seed: 1267471698
-Room 1.12()
-SpawnRNG seed: 409756021
-Room 1.83()
-SpawnRNG seed: 2785315437
-Room 1.2(Start Room)
-SpawnRNG seed: 2957287978
-Room 6.2061(Pride)
-SpawnRNG seed: 2815821623
-Spawn Entity with Type(52), Variant(0), Pos(320.00,280.00)
-TriggerBossDeath: 0 bosses remaining.
-MiniBoss 6 added to SaveState
-item taken without exchange
-item queue flush
-Adding collectible 65 (Anarchist Cookbook)
-music stopped playing
-Adding costume for 214 (Anemic) which was added before and never removed.
-Action PillCard Triggered
-Action PillCard Triggered
-Queued Path music/the calm.ogg
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.2(Start Room)
-SpawnRNG seed: 2957287978
-Total entity spawn time: 205 ms
-Total ANM2 loading time: 285 ms
-AnmCache memory usage: 13254040 bytes in 1028 entries.
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-CPU time spent on enemy queries: 0.01 seconds.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
-SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
-SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
-SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-Queued Path music/afterbirth/regenesis (loop) v3.ogg
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-RNG Start Seed: KTK0 RWXE (1136400439)
-Initialized player with Variant 0 and Subtype 0
-Level::Init m_Stage 1, m_StageType 2 Seed 3500337243
-[RoomConfig] load stage 3: Burning Basement
-allocate 837 rooms.
-generate...
-place_room: shape 11
-place_room: shape 4
-9 rooms in 4 loops
-not enough dead ends, trying to make new one
-not enough dead ends, trying to make new one
-placing rooms...
-Map Generated in 1 Loops
-Room 1.2(Start Room)
-SpawnRNG seed: 246527452
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-music stopped playing
-Room 1.100()
-SpawnRNG seed: 4071056346
-Spawn Entity with Type(6), Variant(4), Pos(320.00,280.00)
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Room 4.23( (copy))
-SpawnRNG seed: 908033074
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-item taken without exchange
-item queue flush
-Adding collectible 282 (How to Jump)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.100()
-SpawnRNG seed: 4071056346
-music stopped playing
-Room 1.2(Start Room)
-SpawnRNG seed: 246527452
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Room 1.280(New Room)
-SpawnRNG seed: 166644686
-Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,400.00)
-item taken without exchange
-item queue flush
-Adding collectible 401 (Explosivo)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.802(New Room)
-SpawnRNG seed: 3484215358
-Spawn Entity with Type(217), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(560.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(840.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(840.00,560.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.265(New Room)
-SpawnRNG seed: 174144464
-Spawn Entity with Type(222), Variant(0), Pos(120.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(480.00,160.00)
-Spawn Entity with Type(222), Variant(0), Pos(520.00,160.00)
-Spawn Entity with Type(222), Variant(0), Pos(80.00,200.00)
-Spawn Entity with Type(222), Variant(0), Pos(560.00,200.00)
-Spawn Entity with Type(33), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(80.00,320.00)
-Spawn Entity with Type(222), Variant(0), Pos(80.00,360.00)
-Spawn Entity with Type(222), Variant(0), Pos(560.00,360.00)
-Spawn Entity with Type(222), Variant(0), Pos(120.00,400.00)
-Spawn Entity with Type(222), Variant(0), Pos(520.00,400.00)
-Room 1.802(New Room)
-SpawnRNG seed: 3484215358
-Room 1.553(New Room)
-SpawnRNG seed: 916172931
-Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(520.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
-Spawn Entity with Type(217), Variant(0), Pos(320.00,200.00)
-Spawn Entity with Type(217), Variant(0), Pos(240.00,240.00)
-Spawn Entity with Type(217), Variant(0), Pos(400.00,240.00)
-Spawn Entity with Type(217), Variant(0), Pos(240.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(280.00,320.00)
-Spawn Entity with Type(217), Variant(0), Pos(400.00,320.00)
-Spawn Entity with Type(217), Variant(0), Pos(320.00,360.00)
-Spawn Entity with Type(33), Variant(0), Pos(120.00,400.00)
-Spawn Entity with Type(33), Variant(0), Pos(160.00,400.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 5.1019(Ragman)
-SpawnRNG seed: 3932233576
-Spawn Entity with Type(405), Variant(0), Pos(320.00,280.00)
-Queued Path music/afterbirth/cerebrum dispersio (boss alt) loop.ogg
-TriggerBossDeath: 0 bosses remaining.
-deathspawn_boss, color idx -1
-Boss 61 added to SaveState
-music stopped playing
-item taken without exchange
-item queue flush
-Adding collectible 354 (Crack Jacks)
-item queue flush
-Queued Path music/the calm.ogg
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.553(New Room)
-SpawnRNG seed: 916172931
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Room 1.802(New Room)
-SpawnRNG seed: 3484215358
-Room 1.646(New Room (copy))
-SpawnRNG seed: 4250336140
-Spawn Entity with Type(284), Variant(0), Pos(120.00,240.00)
-Spawn Entity with Type(10), Variant(0), Pos(80.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(440.00,280.00)
-Spawn Entity with Type(284), Variant(0), Pos(120.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(160.00,400.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.280(New Room)
-SpawnRNG seed: 166644686
-Room 1.2(Start Room)
-SpawnRNG seed: 246527452
-Room 1.100()
-SpawnRNG seed: 4071056346
-Room 1.2(Start Room)
-SpawnRNG seed: 246527452
-Room 1.280(New Room)
-SpawnRNG seed: 166644686
-Room 1.802(New Room)
-SpawnRNG seed: 3484215358
-Room 1.553(New Room)
-SpawnRNG seed: 916172931
-Room 5.1019(Ragman)
-SpawnRNG seed: 3932233576
-Level::Init m_Stage 2, m_StageType 2 Seed 1656141153
-generate...
-place_room: shape 4
-place_room: shape 5
-12 rooms in 6 loops
-placing rooms...
-Map Generated in 1 Loops
-Room 1.2(Start Room)
-SpawnRNG seed: 2986772459
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Room 1.155()
-SpawnRNG seed: 4096634014
-Spawn Entity with Type(33), Variant(0), Pos(200.00,280.00)
-Spawn Entity with Type(5), Variant(60), Pos(320.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(440.00,280.00)
-Room 13.5( (copy))
-SpawnRNG seed: 175754077
-Room 1.155()
-SpawnRNG seed: 4096634014
-Room 1.516(New Room)
-SpawnRNG seed: 3752966876
-Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
-Spawn Entity with Type(226), Variant(0), Pos(560.00,240.00)
-Spawn Entity with Type(208), Variant(0), Pos(80.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(200.00,280.00)
-Spawn Entity with Type(208), Variant(0), Pos(560.00,280.00)
-Spawn Entity with Type(226), Variant(0), Pos(80.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(520.00,360.00)
-Room 1.374(New Room)
-SpawnRNG seed: 3099644381
-Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(240.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(400.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(480.00,240.00)
-Spawn Entity with Type(33), Variant(0), Pos(400.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(160.00,360.00)
-Spawn Entity with Type(33), Variant(0), Pos(440.00,360.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(5), Variant(10), Pos(480.00,400.00)
-Spawn Entity with Type(5), Variant(30), Pos(520.00,400.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,440.00)
-Spawn Entity with Type(5), Variant(40), Pos(480.00,440.00)
-Spawn Entity with Type(5), Variant(20), Pos(520.00,440.00)
-Spawn Entity with Type(33), Variant(0), Pos(240.00,480.00)
-Spawn Entity with Type(33), Variant(0), Pos(400.00,480.00)
-Spawn Entity with Type(33), Variant(0), Pos(480.00,600.00)
-Spawn Entity with Type(33), Variant(0), Pos(520.00,600.00)
-Spawn Entity with Type(33), Variant(0), Pos(80.00,680.00)
-Spawn Entity with Type(33), Variant(0), Pos(240.00,680.00)
-Spawn Entity with Type(33), Variant(0), Pos(400.00,680.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,680.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 4.15( (copy))
-SpawnRNG seed: 3783960901
-Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(320.00,240.00)
-Spawn Entity with Type(33), Variant(0), Pos(280.00,280.00)
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(360.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(320.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,400.00)
-item taken without exchange
-item queue flush
-Adding collectible 46 (Lucky Foot)
-music stopped playing
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.374(New Room)
-SpawnRNG seed: 3099644381
-Spawn Entity with Type(218), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,440.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.694(New Room (copy))
-SpawnRNG seed: 1465331374
-Spawn Entity with Type(33), Variant(1), Pos(200.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(280.00,160.00)
-Spawn Entity with Type(217), Variant(0), Pos(320.00,240.00)
-Spawn Entity with Type(217), Variant(0), Pos(280.00,280.00)
-Spawn Entity with Type(276), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(360.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(320.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(120.00,360.00)
-Spawn Entity with Type(33), Variant(0), Pos(160.00,400.00)
-Spawn Entity with Type(33), Variant(0), Pos(320.00,400.00)
-unlock steam achievement '85'
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.675(New Room (copy))
-SpawnRNG seed: 2654764930
-Spawn Entity with Type(33), Variant(0), Pos(480.00,160.00)
-Spawn Entity with Type(244), Variant(0), Pos(480.00,200.00)
-Spawn Entity with Type(289), Variant(0), Pos(520.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(80.00,320.00)
-Spawn Entity with Type(33), Variant(0), Pos(120.00,360.00)
-Spawn Entity with Type(244), Variant(0), Pos(480.00,360.00)
-Spawn Entity with Type(33), Variant(0), Pos(560.00,360.00)
-Room 5.1013(Monstro)
-SpawnRNG seed: 2033554424
-Spawn Entity with Type(13), Variant(0), Pos(240.00,280.00)
-Spawn Entity with Type(20), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(13), Variant(0), Pos(400.00,280.00)
-TriggerBossDeath: 0 bosses remaining.
-deathspawn_boss, color idx -1
-Boss 1 added to SaveState
-item taken without exchange
-item queue flush
-Adding collectible 193 (MEAT!)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.675(New Room (copy))
-SpawnRNG seed: 2654764930
-music stopped playing
-Room 1.694(New Room (copy))
-SpawnRNG seed: 1465331374
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Room 1.675(New Room (copy))
-SpawnRNG seed: 2654764930
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.694(New Room (copy))
-SpawnRNG seed: 1465331374
-Room 1.374(New Room)
-SpawnRNG seed: 3099644381
-Spawn Entity with Type(218), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,440.00)
-Room 2.1()
-SpawnRNG seed: 1985767280
-Spawn Entity with Type(6), Variant(8), Pos(200.00,160.00)
-Spawn Entity with Type(33), Variant(0), Pos(120.00,200.00)
-Spawn Entity with Type(17), Variant(0), Pos(320.00,200.00)
-Spawn Entity with Type(33), Variant(0), Pos(520.00,200.00)
-Spawn Entity with Type(5), Variant(150), Pos(240.00,320.00)
-Spawn Entity with Type(5), Variant(150), Pos(320.00,320.00)
-Spawn Entity with Type(5), Variant(150), Pos(400.00,320.00)
-Queued Path music/store loop.ogg
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.374(New Room)
-SpawnRNG seed: 3099644381
-Spawn Entity with Type(218), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,440.00)
-Room 1.516(New Room)
-SpawnRNG seed: 3752966876
-Queued Path music/afterbirth/burning basement guitar layer_04.ogg
-Queued Path music/afterbirth/burning basement loop.ogg
-Room 1.155()
-SpawnRNG seed: 4096634014
-Room 13.5( (copy))
-SpawnRNG seed: 175754077
-Room 1.155()
-SpawnRNG seed: 4096634014
-item taken without exchange
-item queue flush
-Adding collectible 50 (Steven)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.2(Start Room)
-SpawnRNG seed: 2986772459
-Room 1.155()
-SpawnRNG seed: 4096634014
-Room 1.538(New Room)
-SpawnRNG seed: 3634161473
-Spawn Entity with Type(33), Variant(0), Pos(200.00,160.00)
-Spawn Entity with Type(12), Variant(0), Pos(360.00,160.00)
-Spawn Entity with Type(12), Variant(0), Pos(480.00,160.00)
-Spawn Entity with Type(248), Variant(0), Pos(560.00,240.00)
-Spawn Entity with Type(248), Variant(0), Pos(560.00,320.00)
-Spawn Entity with Type(12), Variant(0), Pos(360.00,400.00)
-Spawn Entity with Type(33), Variant(0), Pos(440.00,400.00)
-Spawn Entity with Type(12), Variant(0), Pos(480.00,400.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.155()
-SpawnRNG seed: 4096634014
-Room 1.516(New Room)
-SpawnRNG seed: 3752966876
-Room 1.374(New Room)
-SpawnRNG seed: 3099644381
-Spawn Entity with Type(218), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,440.00)
-Room 1.516(New Room)
-SpawnRNG seed: 3752966876
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.155()
-SpawnRNG seed: 4096634014
-Room 1.2(Start Room)
-SpawnRNG seed: 2986772459
-Room 10.3()
-SpawnRNG seed: 2181597744
-Spawn Entity with Type(85), Variant(0), Pos(320.00,240.00)
-Spawn Entity with Type(85), Variant(0), Pos(280.00,280.00)
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-Spawn Entity with Type(85), Variant(0), Pos(360.00,280.00)
-Spawn Entity with Type(85), Variant(0), Pos(320.00,320.00)
-item taken without exchange
-item queue flush
-Adding collectible 134 (Guppy's Tail)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.2(Start Room)
-SpawnRNG seed: 2986772459
-Room 1.155()
-SpawnRNG seed: 4096634014
-Room 1.516(New Room)
-SpawnRNG seed: 3752966876
-Room 1.374(New Room)
-SpawnRNG seed: 3099644381
-Spawn Entity with Type(218), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(218), Variant(0), Pos(80.00,440.00)
-Total entity spawn time: 2508 ms
-Total ANM2 loading time: 1199 ms
-AnmCache memory usage: 13254040 bytes in 1028 entries.
-Room 1.694(New Room (copy))
-SpawnRNG seed: 1465331374
-Room 1.675(New Room (copy))
-SpawnRNG seed: 2654764930
-Room 5.1013(Monstro)
-SpawnRNG seed: 2033554424
-Level::Init m_Stage 3, m_StageType 2 Seed 2288018313
-[RoomConfig] load stage 6: Flooded Caves
-allocate 774 rooms.
-generate...
-place_room: shape 10
-place_room: shape 9
-16 rooms in 9 loops
-placing rooms...
-Map Generated in 1 Loops
-Room 1.2(Start Room)
-SpawnRNG seed: 4172547350
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-music stopped playing
-Room 1.471(New Room)
-SpawnRNG seed: 3685450096
-Room 1.2(Start Room)
-SpawnRNG seed: 4172547350
-Queued Path music/afterbirth/kave diluvii (flooded caves) layer.ogg
-Queued Path music/afterbirth/kave diluvii (flooded caves) loop.ogg
-Room 1.741(New Room)
-SpawnRNG seed: 3185169945
-Spawn Entity with Type(244), Variant(0), Pos(120.00,200.00)
-Spawn Entity with Type(244), Variant(0), Pos(520.00,440.00)
-Spawn Entity with Type(244), Variant(0), Pos(120.00,640.00)
-Spawn Entity with Type(244), Variant(0), Pos(520.00,640.00)
-Spawn Entity with Type(244), Variant(0), Pos(1040.00,640.00)
-Action PillCard Triggered
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.34()
-SpawnRNG seed: 1625356393
-Spawn Entity with Type(31), Variant(0), Pos(240.00,240.00)
-Spawn Entity with Type(21), Variant(0), Pos(400.00,240.00)
-Spawn Entity with Type(21), Variant(0), Pos(280.00,280.00)
-Spawn Entity with Type(31), Variant(0), Pos(360.00,280.00)
-Spawn Entity with Type(21), Variant(0), Pos(240.00,320.00)
-Spawn Entity with Type(31), Variant(0), Pos(400.00,320.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.252(New Room)
-SpawnRNG seed: 2166136605
-Spawn Entity with Type(23), Variant(0), Pos(480.00,200.00)
-Spawn Entity with Type(240), Variant(0), Pos(80.00,280.00)
-Spawn Entity with Type(240), Variant(0), Pos(560.00,280.00)
-Spawn Entity with Type(23), Variant(0), Pos(160.00,360.00)
-item queue flush
-Room 1.52()
-SpawnRNG seed: 3402361660
-Spawn Entity with Type(18), Variant(0), Pos(280.00,240.00)
-Spawn Entity with Type(18), Variant(0), Pos(320.00,240.00)
-Spawn Entity with Type(18), Variant(0), Pos(360.00,240.00)
-Spawn Entity with Type(18), Variant(0), Pos(280.00,280.00)
-Spawn Entity with Type(5), Variant(20), Pos(320.00,280.00)
-Spawn Entity with Type(18), Variant(0), Pos(360.00,280.00)
-Spawn Entity with Type(18), Variant(0), Pos(280.00,320.00)
-Spawn Entity with Type(18), Variant(0), Pos(320.00,320.00)
-Spawn Entity with Type(18), Variant(0), Pos(360.00,320.00)
-Room 1.515(New Room)
-SpawnRNG seed: 3161591012
-Spawn Entity with Type(33), Variant(0), Pos(120.00,200.00)
-Spawn Entity with Type(23), Variant(0), Pos(480.00,200.00)
-Spawn Entity with Type(227), Variant(0), Pos(520.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(120.00,360.00)
-Spawn Entity with Type(23), Variant(0), Pos(480.00,360.00)
-Game Over. Killed by (23.1) spawned by (0.0) damage flags (0)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-CPU time spent on enemy queries: 0.15 seconds.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
-SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
-SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
-SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-CPU time spent on enemy queries: 0.15 seconds.
-delete 784 rooms.
-delete 837 rooms.
-delete 837 rooms.
-delete 774 rooms.
-delete 6 rooms.
+CPU time spent on enemy queries: 0.00 seconds.

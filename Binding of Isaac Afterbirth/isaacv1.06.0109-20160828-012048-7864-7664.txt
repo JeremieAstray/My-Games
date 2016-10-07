@@ -1,0 +1,1636 @@
+timeBeginPeriod( 1 )
+OpenGL version 4.5.0 NVIDIA 354.07
+GLSL version 4.50 NVIDIA
+Framebuffer ID: 1
+Renderbuffer ID: 1 size 1024x1024
+New gamepad attached:
+Description: [ BETOP CONTROLLER ]
+Vendor ID: 4544
+Product ID: 21766
+Number of axes: 6
+Number of buttons: 12
+Binding of Isaac: Afterbirth v1.06.0109
+Initialize ColorOffset Shader
+Initialize Pixelation Shader
+Initialize Bloom Shader
+Initialize Color Correction Shader
+Initialize HQ4X Shader
+Initialize Shockwave Shader
+Initialize OldTV Shader
+Initialize Water Surface Shader
+load archives: 7098 milliseconds
+preload anm2: 167 milliseconds
+Viewport: 960x540
+Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 960x540
+Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
+SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
+Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
+SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
+SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
+Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
+SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
+playing cutscene 1 (Intro).
+Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 0.444444 
+ DP per point: 1.000000 
+ Point Scale: 2.250000 
+HQX4 size: 960x540
+Cutscene: correct anm2 timing: f0 -> f4
+Viewport: 960x540
+Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 960x540
+Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
+SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
+Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
+SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
+SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
+Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
+SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
+Viewport: 960x540
+Framebuffer Width: 961 
+ Render Width: 960 
+ Window Width: 961 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 960x540
+Framebuffer Width: 961 
+ Render Width: 960 
+ Window Width: 961 
+ Multiplier: 2.254177 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 960x542
+Framebuffer Width: 961 
+ Render Width: 960 
+ Window Width: 961 
+ Multiplier: 2.258343 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 962x544
+Framebuffer Width: 962 
+ Render Width: 962 
+ Window Width: 962 
+ Multiplier: 2.266677 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 962x544
+Framebuffer Width: 963 
+ Render Width: 962 
+ Window Width: 963 
+ Multiplier: 2.270843 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 962x546
+Framebuffer Width: 963 
+ Render Width: 962 
+ Window Width: 963 
+ Multiplier: 2.279177 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 966x554
+Framebuffer Width: 966 
+ Render Width: 966 
+ Window Width: 966 
+ Multiplier: 2.308343 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 966x558
+Framebuffer Width: 967 
+ Render Width: 966 
+ Window Width: 967 
+ Multiplier: 2.325010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 968x560
+Framebuffer Width: 968 
+ Render Width: 968 
+ Window Width: 968 
+ Multiplier: 2.337510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 968x562
+Framebuffer Width: 968 
+ Render Width: 968 
+ Window Width: 968 
+ Multiplier: 2.341677 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 972x574
+Framebuffer Width: 972 
+ Render Width: 972 
+ Window Width: 972 
+ Multiplier: 2.391677 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 972x578
+Framebuffer Width: 973 
+ Render Width: 972 
+ Window Width: 973 
+ Multiplier: 2.412510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 974x582
+Framebuffer Width: 974 
+ Render Width: 974 
+ Window Width: 974 
+ Multiplier: 2.425010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 974x584
+Framebuffer Width: 974 
+ Render Width: 974 
+ Window Width: 974 
+ Multiplier: 2.435010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 974x590
+Framebuffer Width: 975 
+ Render Width: 974 
+ Window Width: 975 
+ Multiplier: 2.437510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 978x606
+Framebuffer Width: 978 
+ Render Width: 978 
+ Window Width: 978 
+ Multiplier: 2.445010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 978x612
+Framebuffer Width: 979 
+ Render Width: 978 
+ Window Width: 979 
+ Multiplier: 2.447510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 980x616
+Framebuffer Width: 980 
+ Render Width: 980 
+ Window Width: 980 
+ Multiplier: 2.450010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 982x622
+Framebuffer Width: 982 
+ Render Width: 982 
+ Window Width: 982 
+ Multiplier: 2.455010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 984x636
+Framebuffer Width: 984 
+ Render Width: 984 
+ Window Width: 984 
+ Multiplier: 2.460010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 986x642
+Framebuffer Width: 986 
+ Render Width: 986 
+ Window Width: 986 
+ Multiplier: 2.465010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 986x644
+Framebuffer Width: 987 
+ Render Width: 986 
+ Window Width: 987 
+ Multiplier: 2.467510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 986x648
+Framebuffer Width: 987 
+ Render Width: 986 
+ Window Width: 987 
+ Multiplier: 2.467510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 988x652
+Framebuffer Width: 988 
+ Render Width: 988 
+ Window Width: 988 
+ Multiplier: 2.470010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 992x664
+Framebuffer Width: 992 
+ Render Width: 992 
+ Window Width: 992 
+ Multiplier: 2.480010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 994x666
+Framebuffer Width: 994 
+ Render Width: 994 
+ Window Width: 994 
+ Multiplier: 2.485010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 994x668
+Framebuffer Width: 994 
+ Render Width: 994 
+ Window Width: 994 
+ Multiplier: 2.485010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 994x670
+Framebuffer Width: 995 
+ Render Width: 994 
+ Window Width: 995 
+ Multiplier: 2.487510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 998x676
+Framebuffer Width: 998 
+ Render Width: 998 
+ Window Width: 998 
+ Multiplier: 2.495010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 998x680
+Framebuffer Width: 998 
+ Render Width: 998 
+ Window Width: 998 
+ Multiplier: 2.495010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1000x682
+Framebuffer Width: 1000 
+ Render Width: 1000 
+ Window Width: 1000 
+ Multiplier: 2.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1000x682
+Framebuffer Width: 1000 
+ Render Width: 1000 
+ Window Width: 1000 
+ Multiplier: 2.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1002x684
+Framebuffer Width: 1002 
+ Render Width: 1002 
+ Window Width: 1002 
+ Multiplier: 2.505010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1004x688
+Framebuffer Width: 1004 
+ Render Width: 1004 
+ Window Width: 1004 
+ Multiplier: 2.510010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1004x688
+Framebuffer Width: 1005 
+ Render Width: 1004 
+ Window Width: 1005 
+ Multiplier: 2.512510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1004x690
+Framebuffer Width: 1005 
+ Render Width: 1004 
+ Window Width: 1005 
+ Multiplier: 2.512510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1006x690
+Framebuffer Width: 1006 
+ Render Width: 1006 
+ Window Width: 1006 
+ Multiplier: 2.515010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1006x692
+Framebuffer Width: 1007 
+ Render Width: 1006 
+ Window Width: 1007 
+ Multiplier: 2.517510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1010x700
+Framebuffer Width: 1011 
+ Render Width: 1010 
+ Window Width: 1011 
+ Multiplier: 2.527510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1012x700
+Framebuffer Width: 1012 
+ Render Width: 1012 
+ Window Width: 1012 
+ Multiplier: 2.530010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1012x700
+Framebuffer Width: 1012 
+ Render Width: 1012 
+ Window Width: 1012 
+ Multiplier: 2.530010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1014x704
+Framebuffer Width: 1014 
+ Render Width: 1014 
+ Window Width: 1014 
+ Multiplier: 2.535010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1014x704
+Framebuffer Width: 1015 
+ Render Width: 1014 
+ Window Width: 1015 
+ Multiplier: 2.537510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1016x706
+Framebuffer Width: 1016 
+ Render Width: 1016 
+ Window Width: 1016 
+ Multiplier: 2.540010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1016x708
+Framebuffer Width: 1016 
+ Render Width: 1016 
+ Window Width: 1016 
+ Multiplier: 2.540010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1016x708
+Framebuffer Width: 1017 
+ Render Width: 1016 
+ Window Width: 1017 
+ Multiplier: 2.542510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1016x708
+Framebuffer Width: 1017 
+ Render Width: 1016 
+ Window Width: 1017 
+ Multiplier: 2.542510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1020x714
+Framebuffer Width: 1020 
+ Render Width: 1020 
+ Window Width: 1020 
+ Multiplier: 2.550010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1022x716
+Framebuffer Width: 1022 
+ Render Width: 1022 
+ Window Width: 1022 
+ Multiplier: 2.555010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1022x716
+Framebuffer Width: 1023 
+ Render Width: 1022 
+ Window Width: 1023 
+ Multiplier: 2.557510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1024x718
+Framebuffer Width: 1024 
+ Render Width: 1024 
+ Window Width: 1024 
+ Multiplier: 2.560010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1024x720
+Framebuffer Width: 1025 
+ Render Width: 1024 
+ Window Width: 1025 
+ Multiplier: 2.562510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1026x722
+Renderbuffer ID: 1 size 2048x1024
+Framebuffer Width: 1026 
+ Render Width: 1026 
+ Window Width: 1026 
+ Multiplier: 2.565010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1026x722
+Framebuffer Width: 1027 
+ Render Width: 1026 
+ Window Width: 1027 
+ Multiplier: 2.567510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1026x724
+Framebuffer Width: 1027 
+ Render Width: 1026 
+ Window Width: 1027 
+ Multiplier: 2.567510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1030x728
+Framebuffer Width: 1031 
+ Render Width: 1030 
+ Window Width: 1031 
+ Multiplier: 2.577510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1030x730
+Framebuffer Width: 1031 
+ Render Width: 1030 
+ Window Width: 1031 
+ Multiplier: 2.577510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1032x732
+Framebuffer Width: 1032 
+ Render Width: 1032 
+ Window Width: 1032 
+ Multiplier: 2.580010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1032x732
+Framebuffer Width: 1033 
+ Render Width: 1032 
+ Window Width: 1033 
+ Multiplier: 2.582510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1032x734
+Framebuffer Width: 1033 
+ Render Width: 1032 
+ Window Width: 1033 
+ Multiplier: 2.582510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1034x734
+Framebuffer Width: 1034 
+ Render Width: 1034 
+ Window Width: 1034 
+ Multiplier: 2.585010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1034x734
+Framebuffer Width: 1034 
+ Render Width: 1034 
+ Window Width: 1034 
+ Multiplier: 2.585010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1034x734
+Framebuffer Width: 1035 
+ Render Width: 1034 
+ Window Width: 1035 
+ Multiplier: 2.587510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1034x736
+Framebuffer Width: 1035 
+ Render Width: 1034 
+ Window Width: 1035 
+ Multiplier: 2.587510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1038x738
+Framebuffer Width: 1038 
+ Render Width: 1038 
+ Window Width: 1038 
+ Multiplier: 2.595010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1038x740
+Framebuffer Width: 1038 
+ Render Width: 1038 
+ Window Width: 1038 
+ Multiplier: 2.595010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1038x742
+Framebuffer Width: 1039 
+ Render Width: 1038 
+ Window Width: 1039 
+ Multiplier: 2.597510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1040x742
+Framebuffer Width: 1040 
+ Render Width: 1040 
+ Window Width: 1040 
+ Multiplier: 2.600010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1040x744
+Framebuffer Width: 1041 
+ Render Width: 1040 
+ Window Width: 1041 
+ Multiplier: 2.602510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1042x746
+Framebuffer Width: 1042 
+ Render Width: 1042 
+ Window Width: 1042 
+ Multiplier: 2.605010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1042x746
+Framebuffer Width: 1043 
+ Render Width: 1042 
+ Window Width: 1043 
+ Multiplier: 2.607510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1046x750
+Framebuffer Width: 1046 
+ Render Width: 1046 
+ Window Width: 1046 
+ Multiplier: 2.615010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1046x752
+Framebuffer Width: 1047 
+ Render Width: 1046 
+ Window Width: 1047 
+ Multiplier: 2.617510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1048x752
+Framebuffer Width: 1048 
+ Render Width: 1048 
+ Window Width: 1048 
+ Multiplier: 2.620010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1048x754
+Framebuffer Width: 1049 
+ Render Width: 1048 
+ Window Width: 1049 
+ Multiplier: 2.622510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1054x760
+Framebuffer Width: 1054 
+ Render Width: 1054 
+ Window Width: 1054 
+ Multiplier: 2.635010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1054x760
+Framebuffer Width: 1055 
+ Render Width: 1054 
+ Window Width: 1055 
+ Multiplier: 2.637510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1054x760
+Framebuffer Width: 1055 
+ Render Width: 1054 
+ Window Width: 1055 
+ Multiplier: 2.637510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1056x762
+Framebuffer Width: 1056 
+ Render Width: 1056 
+ Window Width: 1056 
+ Multiplier: 2.640010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1056x762
+Framebuffer Width: 1057 
+ Render Width: 1056 
+ Window Width: 1057 
+ Multiplier: 2.642510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1060x766
+Framebuffer Width: 1061 
+ Render Width: 1060 
+ Window Width: 1061 
+ Multiplier: 2.652510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1062x768
+Framebuffer Width: 1062 
+ Render Width: 1062 
+ Window Width: 1062 
+ Multiplier: 2.655010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1064x768
+Framebuffer Width: 1064 
+ Render Width: 1064 
+ Window Width: 1064 
+ Multiplier: 2.660010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1066x772
+Framebuffer Width: 1066 
+ Render Width: 1066 
+ Window Width: 1066 
+ Multiplier: 2.665010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1066x772
+Framebuffer Width: 1067 
+ Render Width: 1066 
+ Window Width: 1067 
+ Multiplier: 2.667510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1068x772
+Framebuffer Width: 1068 
+ Render Width: 1068 
+ Window Width: 1068 
+ Multiplier: 2.670010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1068x774
+Framebuffer Width: 1068 
+ Render Width: 1068 
+ Window Width: 1068 
+ Multiplier: 2.670010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1068x774
+Framebuffer Width: 1069 
+ Render Width: 1068 
+ Window Width: 1069 
+ Multiplier: 2.672510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1070x776
+Framebuffer Width: 1071 
+ Render Width: 1070 
+ Window Width: 1071 
+ Multiplier: 2.677510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1072x776
+Framebuffer Width: 1072 
+ Render Width: 1072 
+ Window Width: 1072 
+ Multiplier: 2.680010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1072x776
+Framebuffer Width: 1073 
+ Render Width: 1072 
+ Window Width: 1073 
+ Multiplier: 2.682510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1072x778
+Framebuffer Width: 1073 
+ Render Width: 1072 
+ Window Width: 1073 
+ Multiplier: 2.682510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1076x778
+Framebuffer Width: 1076 
+ Render Width: 1076 
+ Window Width: 1076 
+ Multiplier: 2.690010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1076x780
+Framebuffer Width: 1076 
+ Render Width: 1076 
+ Window Width: 1076 
+ Multiplier: 2.690010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1076x780
+Framebuffer Width: 1077 
+ Render Width: 1076 
+ Window Width: 1077 
+ Multiplier: 2.692510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1078x780
+Framebuffer Width: 1078 
+ Render Width: 1078 
+ Window Width: 1078 
+ Multiplier: 2.695010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1080x782
+Framebuffer Width: 1080 
+ Render Width: 1080 
+ Window Width: 1080 
+ Multiplier: 2.700010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1080x782
+Framebuffer Width: 1080 
+ Render Width: 1080 
+ Window Width: 1080 
+ Multiplier: 2.700010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1080x782
+Framebuffer Width: 1081 
+ Render Width: 1080 
+ Window Width: 1081 
+ Multiplier: 2.702510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1080x784
+Framebuffer Width: 1081 
+ Render Width: 1080 
+ Window Width: 1081 
+ Multiplier: 2.702510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1082x784
+Framebuffer Width: 1082 
+ Render Width: 1082 
+ Window Width: 1082 
+ Multiplier: 2.705010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1082x784
+Framebuffer Width: 1083 
+ Render Width: 1082 
+ Window Width: 1083 
+ Multiplier: 2.707510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1084x784
+Framebuffer Width: 1084 
+ Render Width: 1084 
+ Window Width: 1084 
+ Multiplier: 2.710010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1084x786
+Framebuffer Width: 1084 
+ Render Width: 1084 
+ Window Width: 1084 
+ Multiplier: 2.710010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1086x786
+Framebuffer Width: 1086 
+ Render Width: 1086 
+ Window Width: 1086 
+ Multiplier: 2.715010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1086x786
+Framebuffer Width: 1086 
+ Render Width: 1086 
+ Window Width: 1086 
+ Multiplier: 2.715010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 1086x786
+Queued Path music/afterbirth/regenesis (loop) v3.ogg
+Viewport: 1086x786
+Framebuffer Width: 1087 
+ Render Width: 1086 
+ Window Width: 1087 
+ Multiplier: 2.717510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1088x786
+Framebuffer Width: 1088 
+ Render Width: 1088 
+ Window Width: 1088 
+ Multiplier: 2.720010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1088x786
+Framebuffer Width: 1089 
+ Render Width: 1088 
+ Window Width: 1089 
+ Multiplier: 2.722510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1090x786
+Framebuffer Width: 1090 
+ Render Width: 1090 
+ Window Width: 1090 
+ Multiplier: 2.725010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1092x786
+Framebuffer Width: 1093 
+ Render Width: 1092 
+ Window Width: 1093 
+ Multiplier: 2.732510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1094x786
+Framebuffer Width: 1094 
+ Render Width: 1094 
+ Window Width: 1094 
+ Multiplier: 2.735010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1094x786
+Framebuffer Width: 1095 
+ Render Width: 1094 
+ Window Width: 1095 
+ Multiplier: 2.737510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1096x786
+Framebuffer Width: 1096 
+ Render Width: 1096 
+ Window Width: 1096 
+ Multiplier: 2.740010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1100x786
+Framebuffer Width: 1100 
+ Render Width: 1100 
+ Window Width: 1100 
+ Multiplier: 2.750010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1100x786
+Framebuffer Width: 1101 
+ Render Width: 1100 
+ Window Width: 1101 
+ Multiplier: 2.752510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1102x786
+Framebuffer Width: 1102 
+ Render Width: 1102 
+ Window Width: 1102 
+ Multiplier: 2.755010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1102x786
+Framebuffer Width: 1103 
+ Render Width: 1102 
+ Window Width: 1103 
+ Multiplier: 2.757510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1106x786
+Framebuffer Width: 1107 
+ Render Width: 1106 
+ Window Width: 1107 
+ Multiplier: 2.767510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1108x786
+Framebuffer Width: 1108 
+ Render Width: 1108 
+ Window Width: 1108 
+ Multiplier: 2.770010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1108x786
+Framebuffer Width: 1109 
+ Render Width: 1108 
+ Window Width: 1109 
+ Multiplier: 2.772510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1110x786
+Framebuffer Width: 1111 
+ Render Width: 1110 
+ Window Width: 1111 
+ Multiplier: 2.777510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1112x786
+Framebuffer Width: 1112 
+ Render Width: 1112 
+ Window Width: 1112 
+ Multiplier: 2.780010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1112x786
+Framebuffer Width: 1113 
+ Render Width: 1112 
+ Window Width: 1113 
+ Multiplier: 2.782510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1114x786
+Framebuffer Width: 1114 
+ Render Width: 1114 
+ Window Width: 1114 
+ Multiplier: 2.785010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1114x786
+Framebuffer Width: 1115 
+ Render Width: 1114 
+ Window Width: 1115 
+ Multiplier: 2.787510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1116x786
+Framebuffer Width: 1116 
+ Render Width: 1116 
+ Window Width: 1116 
+ Multiplier: 2.790010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1116x786
+Framebuffer Width: 1117 
+ Render Width: 1116 
+ Window Width: 1117 
+ Multiplier: 2.792510 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x786
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 1118x786
+Viewport: 1118x788
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x788
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x790
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x790
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x792
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x794
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x798
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x798
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x800
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x802
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x834
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x844
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x850
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x856
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x858
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x862
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x874
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x876
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x878
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x880
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x882
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x882
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x884
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x884
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 1118x884
+Viewport: 1118x884
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x882
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x882
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x880
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x880
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x878
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x878
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x876
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x876
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x868
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x868
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x860
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x856
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x856
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x854
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x854
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x852
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x850
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x850
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x848
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x848
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x846
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x846
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x844
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x844
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x842
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x838
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x836
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x832
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x830
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x828
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x828
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x826
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x820
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x816
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x816
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x810
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x808
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x806
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x804
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x802
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x798
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x794
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x794
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x792
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x790
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x788
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x786
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x784
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x776
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x774
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x772
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x768
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x766
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x762
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x762
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x760
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x752
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x750
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x748
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x746
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x740
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x736
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x734
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x730
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x724
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x724
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x722
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x720
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x718
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+Viewport: 1118x712
+Framebuffer Width: 1118 
+ Render Width: 1118 
+ Window Width: 1118 
+ Multiplier: 2.795010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 1118x712
+Caught exception, writing minidump...

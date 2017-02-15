@@ -1,0 +1,5 @@
+<1>FixedPipelineEmu@FPPS()()(1)(0)(0)(ps_4_0)
+<1>FixedPipelineEmu@FPVS()()(1)(0)(0)(vs_4_0)
+<1>ParticlesNoMat@ParticleGS()(%_RT_HDR_MODE|%_RT_SKYLIGHT_BASED_FOG)(1)(0)(0)(gs_4_0)
+<1>ParticlesNoMat@ParticleGS()(%_RT_HDR_MODE|%_RT_SKYLIGHT_BASED_FOG|%_RT_SOFT_PARTICLE)(1)(0)(0)(gs_4_0)
+<1>Particles@ParticleGS(%REFRACTION)(%_RT_HDR_MODE|%_RT_SKYLIGHT_BASED_FOG)(1)(0)(0)(gs_4_0)

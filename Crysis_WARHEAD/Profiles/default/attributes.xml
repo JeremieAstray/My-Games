@@ -1,0 +1,8 @@
+<Attributes Version="8">
+ <Attr name="Option.fsaa_mode" value="8x"/>
+ <Attr name="OptionCfg.g_blood" value="1"/>
+ <Attr name="OptionCfg.r_Height" value="1080"/>
+ <Attr name="OptionCfg.r_VSync" value="1"/>
+ <Attr name="OptionCfg.r_Width" value="1920"/>
+ <Attr name="OptionCfg.s_MusicVolume" value="1"/>
+</Attributes>

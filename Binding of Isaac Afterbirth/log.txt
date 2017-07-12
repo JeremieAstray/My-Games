@@ -1,14 +1,14 @@
 timeBeginPeriod( 1 )
-OpenGL version 4.5.0 NVIDIA 376.33
+OpenGL version 4.5.0 NVIDIA 382.05
 GLSL version 4.50 NVIDIA
 Framebuffer ID: 1
 Renderbuffer ID: 1 size 1024x1024
 New gamepad attached:
-Description: XInput Controller 1
-Vendor ID: 1118
-Product ID: 654
+Description: [ BETOP CONTROLLER ]
+Vendor ID: 4544
+Product ID: 21766
 Number of axes: 6
-Number of buttons: 15
+Number of buttons: 12
 Binding of Isaac: Afterbirth v1.06.0109
 Initialize ColorOffset Shader
 Initialize Pixelation Shader
@@ -18,11 +18,17 @@ Initialize HQ4X Shader
 Initialize Shockwave Shader
 Initialize OldTV Shader
 Initialize Water Surface Shader
-load archives: 3306 milliseconds
-preload anm2: 62 milliseconds
-HQX4 size: 480x270
+load archives: 5786 milliseconds
+preload anm2: 63 milliseconds
+Viewport: 960x540
+Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+HQX4 size: 960x540
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
 SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
 SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
@@ -36,14 +42,6 @@ Framebuffer Width: 960
  DP per point: 1.000000 
  Point Scale: 2.250000 
 HQX4 size: 960x540
-Framebuffer Width: 960 
- Render Width: 960 
- Window Width: 960 
- Multiplier: 0.444444 
- DP per point: 1.000000 
- Point Scale: 2.250000 
-Cutscene: correct anm2 timing: f31 -> f40
-HQX4 size: 960x540
 Viewport: 960x540
 Framebuffer Width: 960 
  Render Width: 960 
@@ -53,132 +51,19 @@ Framebuffer Width: 960
  Point Scale: 2.000000 
 HQX4 size: 960x540
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
 SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
 SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
 Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
 SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-SteamCloud could not find or open ab_gamestate1.dat. No Game State detected.
 Queued Path music/afterbirth/regenesis (loop) v3.ogg
-RNG Start Seed: 08D3 2LPH (3093881812)
-Initialized player with Variant 0 and Subtype 0
-Level::Init m_Stage 1, m_StageType 0 Seed 1198080067
-[RoomConfig] load stage 1: Basement
-allocate 837 rooms.
-[RoomConfig] load stage 0: Special Rooms
-allocate 784 rooms.
-generate...
-place_room: shape 6
-place_room: shape 8
-place_room: shape 6
-8 rooms in 4 loops
-placing rooms...
-[RoomConfig] load stage 13: ???
-allocate 6 rooms.
-Map Generated in 1 Loops
-Room 1.2(Start Room)
-SpawnRNG seed: 880524684
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
 music stopped playing
-Room 4.3()
-SpawnRNG seed: 2632193379
-Spawn Entity with Type(33), Variant(0), Pos(200.00,280.00)
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-Spawn Entity with Type(33), Variant(0), Pos(440.00,280.00)
-item taken without exchange
-item queue flush
-Adding collectible 294 (Butter Bean)
-music stopped playing
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.2(Start Room)
-SpawnRNG seed: 880524684
-Room 1.642(New Room (copy))
-SpawnRNG seed: 4184306118
-Spawn Entity with Type(256), Variant(0), Pos(80.00,160.00)
-Spawn Entity with Type(256), Variant(0), Pos(560.00,160.00)
-Spawn Entity with Type(249), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(256), Variant(0), Pos(80.00,400.00)
-Spawn Entity with Type(256), Variant(0), Pos(560.00,400.00)
-Queued Path music/diptera layer.ogg
-Queued Path music/diptera sonata(basement).ogg
-Total entity spawn time: 87 ms
-Total ANM2 loading time: 110 ms
-AnmCache memory usage: 13254040 bytes in 1028 entries.
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
+Viewport: 766x540
+Framebuffer Width: 766 
+ Render Width: 766 
+ Window Width: 766 
+ Multiplier: 1.915010 
+ DP per point: 1.000000 
+ Point Scale: 1.000000 
+HQX4 size: 766x540
 CPU time spent on enemy queries: 0.00 seconds.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata2.dat.
-SteamCloud could not find or open ab_persistentgamedata2.dat, starting with a clean save state.
-SteamCloud could not find or open ab_gamestate2.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata3.dat.
-SteamCloud could not find or open ab_gamestate3.dat. No Game State detected.
-Loading PersistentGameData from Steam Cloud: ab_persistentgamedata1.dat.
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-RNG Start Seed: RRKM 2GWW (1950204903)
-Initialized player with Variant 0 and Subtype 0
-Level::Init m_Stage 1, m_StageType 0 Seed 4259132614
-generate...
-place_room: shape 11
-place_room: shape 2
-9 rooms in 6 loops
-not enough dead ends, trying to make new one
-placing rooms...
-Map Generated in 1 Loops
-Room 1.2(Start Room)
-SpawnRNG seed: 3888624418
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-music stopped playing
-Room 4.13( (copy))
-SpawnRNG seed: 2937331540
-Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
-item taken without exchange
-item queue flush
-Adding collectible 167 (Harlequin Baby)
-music stopped playing
-Queued Path music/diptera layer.ogg
-Queued Path music/diptera sonata(basement).ogg
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.2(Start Room)
-SpawnRNG seed: 3888624418
-Room 1.554(New Room)
-SpawnRNG seed: 3707914852
-Spawn Entity with Type(18), Variant(0), Pos(120.00,240.00)
-Spawn Entity with Type(18), Variant(0), Pos(520.00,240.00)
-Spawn Entity with Type(12), Variant(0), Pos(120.00,280.00)
-Spawn Entity with Type(12), Variant(0), Pos(520.00,280.00)
-Spawn Entity with Type(18), Variant(0), Pos(120.00,320.00)
-Spawn Entity with Type(18), Variant(0), Pos(520.00,320.00)
-Room 1.2(Start Room)
-SpawnRNG seed: 3888624418
-Room 1.41()
-SpawnRNG seed: 1856655094
-Spawn Entity with Type(29), Variant(0), Pos(480.00,160.00)
-Spawn Entity with Type(29), Variant(0), Pos(160.00,400.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.802(New Room)
-SpawnRNG seed: 3732545669
-Spawn Entity with Type(217), Variant(0), Pos(320.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(560.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(840.00,280.00)
-Spawn Entity with Type(217), Variant(0), Pos(840.00,560.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 1.9()
-SpawnRNG seed: 2785949363
-Spawn Entity with Type(12), Variant(0), Pos(320.00,240.00)
-Spawn Entity with Type(12), Variant(0), Pos(320.00,320.00)
-Room 1.630(New Room (copy))
-SpawnRNG seed: 277180267
-Spawn Entity with Type(276), Variant(0), Pos(320.00,280.00)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-Room 5.1012(Monstro)
-SpawnRNG seed: 3354164994
-Spawn Entity with Type(20), Variant(0), Pos(320.00,280.00)
-Game Over. Killed by (9.0) spawned by (20.0) damage flags (0)
-Saving PersistentGameData to Steam Cloud: ab_persistentgamedata1.dat.
-CPU time spent on enemy queries: 0.01 seconds.
-CPU time spent on enemy queries: 0.01 seconds.
-delete 784 rooms.
-delete 837 rooms.
-delete 6 rooms.

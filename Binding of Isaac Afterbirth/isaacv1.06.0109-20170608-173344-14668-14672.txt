@@ -1,0 +1,5 @@
+timeBeginPeriod( 1 )
+GLFW Error 65542: WGL: The driver does not appear to support OpenGL
+GLFW Error 65542: WGL: The driver does not appear to support OpenGL
+Failed to create OpenGL window / context
+Caught exception, writing minidump...
